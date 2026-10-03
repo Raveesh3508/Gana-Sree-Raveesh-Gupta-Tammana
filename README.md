@@ -1,4 +1,4 @@
-# Hi, I'm Gana Sree 👋
+# Hi, I'm Gana Sree Raveesh Gupta Tammana 👋
 
 🎓 **B.Tech Computer Science and Engineering Student** at VIT-AP University
 💻 Interested in Software Development and Problem Solving

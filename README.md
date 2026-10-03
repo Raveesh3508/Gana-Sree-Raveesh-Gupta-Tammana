@@ -29,4 +29,8 @@ Check out my [Java and Python Practice](https://github.com/Raveesh3508/java-pyth
 * Strengthening Python fundamentals
 * Developing practical projects
 
+## Featured Repository
+
+Check out my [Java and Python Practice](https://github.com/Raveesh3508/java-python-practice/blob/main/README.md) repository for my programming exercises and DSA practice.
+
 Thanks for visiting my profile! 😊
